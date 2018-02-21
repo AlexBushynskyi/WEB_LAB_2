@@ -1,0 +1,30 @@
+.main_div {
+	background: #80CEC7;
+	width: 805px;
+	height: 600px;
+}
+
+.svg_world {
+	width: 800px;
+	position: absolute;
+	top: 150px;
+}
+
+.svg_clouds {
+	width: 500px;
+	position: absolute;
+	left: 310px;
+}
+
+.svg_water {
+	width: 805px;
+	position: absolute;
+	top: 575px;
+}
+
+.svg_wooden_ship {
+	width: 170px;
+	position: absolute;
+	top: 420px;
+	left: 32px;
+}
